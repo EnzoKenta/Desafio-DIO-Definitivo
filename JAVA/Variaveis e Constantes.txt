@@ -1,0 +1,30 @@
+#Noções/Códigos Básicos de Java#
+
+
+
+console.log (variavel);
+
+const ______ =valor
+
+console.log(valorGasto.tofixed(2))
+
+
+
+##Uso do if, if else, else##
+
+if= Se
+
+if esle= se não se
+
+else= senão
+
+
+
+Abrir console CTRL+'
+
+Terminal
+
+$ node ______ .js
+
+Formatar o códgo ALT+SHIFT+F
+
